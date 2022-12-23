@@ -43,7 +43,8 @@ I love the entire process of developing creative websites. I love the challenge 
 
 </br>
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=1572B6)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=#61DAFB)
+![](https://img.shields.io/badge/Code-Vuejs-informational?style=flat&logo=vuedotjs&color=#4FC08D)
 
 </br>
 
