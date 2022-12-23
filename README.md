@@ -38,13 +38,13 @@ I love the entire process of developing creative websites. I love the challenge 
 
 </br>
 
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=react&color=61DAFB)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=61DAFB)
 
 </br>
 
 </br>
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=1572B6)
 
 </br>
 
