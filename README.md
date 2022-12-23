@@ -42,8 +42,8 @@ I love the entire process of developing creative websites. I love the challenge 
 ![](https://img.shields.io/badge/Code-Vuejs-informational?style=flat&logo=vuedotjs&color=4FC08D)
 </br>
 
-![](https://img.shields.io/badge/Code-TailwindCss-informational?style=flat&logo=tailwindcss&color=06B6D4)
-![](https://img.shields.io/badge/Code-MUI-informational?style=flat&logo=mui&color=007FFF)
+![](https://img.shields.io/badge/Style-TailwindCss-informational?style=flat&logo=tailwindcss&color=06B6D4)
+![](https://img.shields.io/badge/Style-MUI-informational?style=flat&logo=mui&color=007FFF)
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
 </br>
 
