@@ -34,7 +34,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 </br>
 
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=61DAFB)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=777BB4)
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&color=F05340)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-Nodejs-informational?style=flat&logo=nodedotjs&color=3A8338)
@@ -44,6 +44,7 @@ I love the entire process of developing creative websites. I love the challenge 
 </br>
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+![](https://img.shields.io/badge/Code-Nextjs-informational?style=flat&logo=nextdotjs&color=000000)
 ![](https://img.shields.io/badge/Code-Vuejs-informational?style=flat&logo=vuedotjs&color=4FC08D)
 
 </br>
