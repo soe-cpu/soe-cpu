@@ -29,29 +29,25 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-
 </br>
 
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=777BB4)
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&color=F05340)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-Nodejs-informational?style=flat&logo=nodedotjs&color=3A8338)
-
-</br>
-
 </br>
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Nextjs-informational?style=flat&logo=nextdotjs&color=000000)
 ![](https://img.shields.io/badge/Code-Vuejs-informational?style=flat&logo=vuedotjs&color=4FC08D)
-
-</br>
 </br>
 
 ![](https://img.shields.io/badge/Code-TailwindCss-informational?style=flat&logo=tailwindcss&color=06B6D4)
 ![](https://img.shields.io/badge/Code-MUI-informational?style=flat&logo=mui&color=007FFF)
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
+</br>
 
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&color=4479A1)
 </br>
 
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
@@ -61,6 +57,6 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 📈 GitHub Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=soe-cpu)](https://github.com/soe-cpu)
+[![Soe Lin Aung's github stats](https://github-readme-stats.vercel.app/api?username=soe-cpu)](https://github.com/soe-cpu)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soe-cpu&layout=compact)](https://github.com/soe-cpu)
