@@ -21,7 +21,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 🌱 I'm currently learning
 
-- 📱 React, Next js, Typescript, Node js, Larvel ...
+- 📱 React, Next js, Typescript, Node js, Laravel ...
 - Web Design
 - Styled Components
 
